@@ -4,7 +4,7 @@
 
 ![chatlog](https://socialify.git.ci/sjzar/chatlog/image?font=Rokkitt&forks=1&issues=1&name=1&pattern=Diagonal+Stripes&stargazers=1&theme=Auto)
 
-_聊天记录工具，帮助大家轻松使用自己的聊天数据_
+_聊天记录工具，帮助大家轻松使用自己的聊天数据
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/sjzar/chatlog)](https://goreportcard.com/report/github.com/sjzar/chatlog)
 [![GoDoc](https://godoc.org/github.com/sjzar/chatlog?status.svg)](https://godoc.org/github.com/sjzar/chatlog)
